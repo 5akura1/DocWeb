@@ -7,7 +7,7 @@ export default defineUserConfig({
   lang: 'zh-CN',
   locales: {
     '/': {
-      title: 'Sakura1 Document Website',
+      title: 'Sakura1 文档网站',
       lang: 'zh-CN',
       description: '摸鱼为主，产出为辅',
     },

@@ -47,7 +47,7 @@ export default defineThemeConfig({
        */
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'Sakura1 Document Website',
+        name: 'Sakura1 文档网站',
         description: '摸鱼为主，产出为辅',
         // circle: true,
         // location: '',

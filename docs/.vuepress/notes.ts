@@ -38,6 +38,7 @@ const zhVoron24Note = defineNoteConfig({
             items: [
               { text: 'MOD配置', link: 'mods'},
               { text: '270度前门', link: '270度前门'},
+              { text: 'TAP+IDM', link: 'TAP加IDM'},
             ],
         },
     ],
