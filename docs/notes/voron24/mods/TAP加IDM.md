@@ -179,13 +179,10 @@ z_offset: 0.810 #触发高度相对于喷嘴的偏移,tap的话请自行测量�
 
 对z偏移进行校准请使用`probe_calibrate method=auto`
 
-####  开始打印gcode
+### 开始打印gcode
 
 在热床加热结束后加入，保证热偏移也被添加（不加就刮板）
 
 ```
 PROBE_CALIBRATE METHOD=AUTO  
 ```
-
-
-
